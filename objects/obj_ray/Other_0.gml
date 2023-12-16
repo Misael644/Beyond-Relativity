@@ -1,0 +1,1 @@
+if state  != "creating" {instance_destroy()};

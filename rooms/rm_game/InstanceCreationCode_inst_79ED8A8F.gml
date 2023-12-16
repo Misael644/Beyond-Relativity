@@ -1,0 +1,1 @@
+button = "pause";

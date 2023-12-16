@@ -1,0 +1,72 @@
+Converting GML script: ${project_dir}\scripts\draw_sprite_ext_skew\draw_sprite_ext_skew.gml
+Converted description /// @description  draw_sprite_ext_skew(sprite,subimg, x,y, xscale,yscale, rot,alpha, kx,ky, xmult,ymult)/// @param sprite
+/// @param subimg
+/// @param  x
+/// @param y
+/// @param  xscale
+/// @param yscale
+/// @param  rot
+/// @param alpha
+/// @param  kx
+/// @param ky
+/// @param  xmult
+/// @param ymult
+
+Font fnt_text has been converted to font family Super Mario Bros. NES (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_text\fnt_text.gms1.png
+Font fnt_title has been converted to font family Super Mario Bros. NES (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_title\fnt_title.gms1.png
+Converting GML script: ${project_dir}\objects\obj_ship\Step_0.gml
+Converted string - line 25: '1' -> "1"
+Converted string - line 27: '2' -> "2"
+Converted string - line 38: '0' -> "0"
+
+Converting GML script: ${project_dir}\objects\obj_ghost\Other_3.gml
+Converted description /// @description Deletar o caminho
+
+Converting GML script: ${project_dir}\objects\obj_ghost\Draw_0.gml
+Converted description /// @description Desenhar o caminho
+
+Converting GML script: ${project_dir}\objects\obj_game\Step_0.gml
+Converted string - line 16: 'F' -> "F"
+Converted string - line 24: '1' -> "1"
+Converted string - line 37: '2' -> "2"
+
+Converting GML script: ${project_dir}\objects\obj_game\Other_4.gml
+Converted builtin - line 36: background_index[0] = bcg_solar -> __background_set( e__BG.Index, 0, bcg_solar )
+Converted builtin - line 42: background_index[0] = bcg_stars -> __background_set( e__BG.Index, 0, bcg_stars )
+Converted builtin - line 48: background_index[0] = bcg_nebulamagna -> __background_set( e__BG.Index, 0, bcg_nebulamagna )
+
+Converting GML script: ${project_dir}\objects\obj_matrix\Create_0.gml
+ERROR: C:\Users\Administrador\Documents\GameMakerStudio2\Beyond Relativity\objects\obj_matrix\Create_0.gml - 3: unexpected syntax error
+ERROR: C:\Users\Administrador\Documents\GameMakerStudio2\Beyond Relativity\objects\obj_matrix\Create_0.gml - 3: expected expression
+Too many errors - GML not processed : ${project_dir}\objects\obj_matrix\Create_0.gml
+
+Converting GML script: ${project_dir}\objects\obj_matrix\Step_0.gml
+Converted string - line 11: 'O' -> "O"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'msc_start' - setting to default audio group
+Missing audiogroup for sound: 'msc_song' - setting to default audio group
+Missing audiogroup for sound: 'msc_gameover' - setting to default audio group
+Missing audiogroup for sound: 'msc_sad' - setting to default audio group
+Missing audiogroup for sound: 'snd_shot' - setting to default audio group
+Missing audiogroup for sound: 'snd_fly' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion' - setting to default audio group
+Missing audiogroup for sound: 'snd_win' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'
