@@ -1,1 +1,3 @@
 /_stuff
+sounds/*
+!sounds/*.yy
